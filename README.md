@@ -13,9 +13,9 @@
 
 <table>
   <tr>
-    <td align="center" width="180"><img height="30" src="https://img.shields.io/badge/Since_2019-2980B9?style=for-the-badge" alt="Since 2019" /><br/><sub>building and shipping software</sub></td>
-    <td align="center" width="180"><img height="30" src="https://img.shields.io/badge/Since_2023-2980B9?style=for-the-badge" alt="Since 2023" /><br/><sub>leading teams and delivery</sub></td>
-    <td align="center" width="180"><img height="30" src="https://img.shields.io/badge/1M%2B-2980B9?style=for-the-badge" alt="1M+" /><br/><sub>daily active users on platforms led</sub></td>
+    <td align="center" width="180"><a href="https://salamax.dev/experience"><img height="30" src="https://img.shields.io/badge/Since_2019-2980B9?style=for-the-badge" alt="Since 2019" /></a><br/><sub>building and shipping software</sub></td>
+    <td align="center" width="180"><a href="https://salamax.dev/experience"><img height="30" src="https://img.shields.io/badge/Since_2023-2980B9?style=for-the-badge" alt="Since 2023" /></a><br/><sub>leading teams and delivery</sub></td>
+    <td align="center" width="180"><a href="https://salamax.dev/about"><img height="30" src="https://img.shields.io/badge/1M%2B-2980B9?style=for-the-badge" alt="1M+" /></a><br/><sub>daily active users</sub></td>
     <td align="center" width="180"><a href="https://salamax.dev/projects"><img height="30" src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fsalamax.dev%2Fsitemap.xml&query=count(%2F%2F*%5Blocal-name()%3D'loc'%20and%20contains(.%2C'%2Fprojects%2F')%5D)&label=&color=2980B9&style=for-the-badge&cacheSeconds=86400" alt="Case studies" /></a><br/><sub>case studies written up</sub></td>
   </tr>
 </table>
@@ -86,31 +86,31 @@ I work the whole lifecycle, so nothing is lost between what the business asked f
   <tr>
     <td width="50%" valign="top">
       <b>Backend</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,express,py" alt="PHP, Laravel, Node.js, NestJS, Express, Python" /><br/>
+      <a href="https://salamax.dev/expertise"><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,express,py" alt="PHP, Laravel, Node.js, NestJS, Express, Python" /><br/></a>
       <sub>APIs, services and distributed systems for high-volume workflows.</sub>
     </td>
     <td width="50%" valign="top">
       <b>Frontend</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=ts,react,nextjs,materialui" alt="TypeScript, React, Next.js, Material UI" /><br/>
+      <a href="https://salamax.dev/expertise"><img src="https://skillicons.dev/icons?i=ts,react,nextjs,materialui" alt="TypeScript, React, Next.js, Material UI" /><br/></a>
       <sub>Web apps, dashboards and admin platforms in TypeScript.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b>Mobile</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,flutter" alt="React Native, Flutter" /><br/>
+      <a href="https://salamax.dev/expertise"><img src="https://skillicons.dev/icons?i=react,flutter" alt="React Native, Flutter" /><br/></a>
       <sub>Cross-platform apps with React Native and Flutter.</sub>
     </td>
     <td width="50%" valign="top">
       <b>Data</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="MySQL, PostgreSQL, MongoDB, Redis" /><br/>
+      <a href="https://salamax.dev/expertise"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="MySQL, PostgreSQL, MongoDB, Redis" /><br/></a>
       <sub>Relational and document engines, with caching, indexing and query optimisation.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b>Cloud</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=aws,docker" alt="AWS, Docker" /><br/>
+      <a href="https://salamax.dev/expertise"><img src="https://skillicons.dev/icons?i=aws,docker" alt="AWS, Docker" /><br/></a>
       <sub>AWS infrastructure, containerised services, CI/CD pipelines and observability.</sub>
     </td>
     <td width="50%" valign="top">
@@ -152,4 +152,4 @@ Open to **technical leadership, product delivery and senior engineering roles**,
   <a href="mailto:ahmedsalamacode@gmail.com"><img src="https://img.shields.io/badge/ahmedsalamacode%40gmail.com-142430?style=for-the-badge&logo=gmail&logoColor=white" alt="Email ahmedsalamacode@gmail.com" /></a>
 </p>
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2980B9,100:142430&section=footer" />
+<a href="https://salamax.dev"><img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2980B9,100:142430&section=footer" /></a>
